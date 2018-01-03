@@ -1,3 +1,3 @@
 # hello-world
 just a repository
-I'm a man.
+I'm a man
